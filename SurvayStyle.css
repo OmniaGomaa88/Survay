@@ -1,6 +1,10 @@
 body{
     background-image: linear-gradient(to right, rgba(109, 179, 242, .6), rgba(109, 179, 242, .6)) ,url("../survayForm/images/imagDeFond.jpeg");
     background-size: 100% 700px;
-
-    
+}
+form{
+    background-color: black;
+    color: blanchedalmond;
+   width: 50%;
+   height: auto;
 }
