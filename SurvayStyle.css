@@ -1,6 +1,11 @@
 body{
     background-image: linear-gradient(to right, rgba(109, 179, 242, .6), rgba(109, 179, 242, .6)) ,url("../survayForm/images/imagDeFond.jpeg");
    color: rgb(252, 251, 249);
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 1500px 800px;
+
+   
    
 
     
@@ -19,6 +24,9 @@ form{
    position: absolute;
    left:500px;
  padding-left: 50px;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ opacity: 0.7;
  
 }
 #button{
