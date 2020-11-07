@@ -1,10 +1,37 @@
 body{
     background-image: linear-gradient(to right, rgba(109, 179, 242, .6), rgba(109, 179, 242, .6)) ,url("../survayForm/images/imagDeFond.jpeg");
-    background-size: 100% 700px;
+   color: rgb(252, 251, 249);
+   
+
+    
 }
+header{
+    text-align: center;
+}
+
+    
+
 form{
     background-color: black;
     color: blanchedalmond;
-   width: 50%;
+   width:30%;
    height: auto;
+   position: absolute;
+   left:500px;
+ padding-left: 50px;
+ 
+}
+#button{
+background-color: rgb(41, 145, 55);
+}
+
+
+
+.width{
+    width:80%; 
+  
+}
+textarea{
+    height:100px;
+    width: 80%;
 }
