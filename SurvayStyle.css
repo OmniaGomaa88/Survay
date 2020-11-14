@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(to right, rgba(93, 51, 230, 0.534), rgba(118, 101, 216, 0.6)) ,url("../survayForm/images/imagDeFond.jpeg");
+    background-image: linear-gradient(to right, rgba(93, 51, 230, 0.534), rgba(118, 101, 216, 0.6)) ,url("imagDeFond.jpeg");
    color: rgb(252, 251, 249);
    background-repeat: no-repeat;
   background-attachment: fixed;
